@@ -352,7 +352,7 @@
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
   - [N1.ru](http://n1.ru)
-  - [稀土掘金](http://gold.xitu.io)
+  - [掘金](http://gold.xitu.io)
   - [Prague Airport](http://www.prague-airport.com/)
   - [Expressionery](https://www.expressionery.com)
   - [BUYIT](http://bt.workswell.com.au) by @[Workswell Australia](http://workswell.com.au)
